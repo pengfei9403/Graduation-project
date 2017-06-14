@@ -1,0 +1,89 @@
+
+E:\毕业设计\代码>randwalk.exe
+
+The data of rand walk on Line has been generated !
+
+The data of rand walk on Square has been generated !
+
+The data of rand walk on Triangle has been generated !
+
+The data of rand walk on Hex has been generated !
+
+10000 Square samples have been generated , the total number is ：11764156
+The number of 20 steps samples is : 10730471
+The efficiency of samples is : 0.085004%        0.0931926%
+Time cost ：878 seconds
+
+10000 triangle samples have been generated , the total number is ：4417572
+The number of 20 steps samples is : 4093202
+The efficiency of samples is : 0.226369%        0.244308%
+Time cost ：334 seconds
+
+10000 Hex samples have been generated , the total number is ：56804995
+The number of 20 steps samples is : 52149786
+The efficiency of samples is : 0.0176041%       0.0191755%
+Time cost ：4499 seconds
+
+30 LineSamples have been generated !
+Line read_MD has been generated !
+
+30 SquareSamples have been generated !
+Square read_MD has been generated !
+Square samples have been handled !
+
+30 TriangleSamples have been generated !
+Triangle read_MD has been generated !
+Triangle samples have been handled !
+
+30 HexSamples have been generated !
+Hex read_MD has been generated !
+Hex samples have been handled !
+
+30 SquareSAW_Samples have been generated !
+SquareSAW read_MD has been generated !
+Square SAWsamples have been handled !
+The total number is : 38715
+The efficiency of samples is : 0.0774893%
+Time cost is : 3 seconds
+
+30 TriangleSAW_Samples have been generated !
+TriangleSAW read_MD has been generated !
+Triangle SAWsamples have been handled !
+The total number is : 13211
+The efficiency of samples is : 0.227083%
+Time cost is : 1 seconds
+
+30 HexSAW_Samples have been generated !
+HexSAW read_MD has been generated !
+Hex SAWsamples have been handled !
+The total number is : 191668
+The efficiency of samples is : 0.0156521%
+Time cost is : 14 seconds
+
+Square_LFD_arr_data.txt has been generated !
+
+Triangle_LFD_arr_data.txt has been generated !
+
+Hex_LFD_arr_data.txt has been generated !
+
+Square_SAW_LFD_arr_data.txt has been generated !
+Square_SAW_lfd is caculated with 10000samples !
+The total number is : 11887793
+The efficiency of samples is : 0.0841199%
+Time cost ：884 seconds
+
+Triangle_SAW_LFD_arr_data.txt has been generated !
+Triangle_SAW_lfd is caculated with 10000samples !
+The total number is : 4442359
+The efficiency of samples is : 0.225106%
+Time cost ：344 seconds
+
+Hex_SAW_LFD_arr_data.txt has been generated !
+Hex_SAW_lfd is caculated with 10000samples !
+The total number is : 55669632
+The efficiency of samples is : 0.0179631%
+Time cost ：4231 seconds
+
+The entire time cost is : 3 h 6 mins 52 seconds
+
+E:\毕业设计\代码>
